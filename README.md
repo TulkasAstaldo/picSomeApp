@@ -1,3 +1,6 @@
 ### Pic Some App
 
-A simple e-commerse mock-up application of an image store with React.
+A mockup e-commerse Image store, using React.js, React Hooks, React Route. 
+
+![Shapshot](https://github.com/TulkasAstaldo/picSomeApp/blob/master/sample/picSomeApp.png)
+
