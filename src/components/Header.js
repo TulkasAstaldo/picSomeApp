@@ -18,6 +18,7 @@ export default function Header({ img }) {
       <Link to="/">
         <h2>Pic Some</h2>
       </Link>
+    
       <Link to="/favorites">
         <h2>Favorites</h2>
       </Link>
